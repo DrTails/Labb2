@@ -1,0 +1,6 @@
+/Users/danielmartinsson/Projects/Labb2/Labb2/obj/x86/Debug/Labb2.csprojAssemblyReference.cache
+/Users/danielmartinsson/Projects/Labb2/Labb2/obj/x86/Debug/Labb2.csproj.CoreCompileInputs.cache
+/Users/danielmartinsson/Projects/Labb2/Labb2/bin/Debug/Labb2.exe
+/Users/danielmartinsson/Projects/Labb2/Labb2/bin/Debug/Labb2.pdb
+/Users/danielmartinsson/Projects/Labb2/Labb2/obj/x86/Debug/Labb2.exe
+/Users/danielmartinsson/Projects/Labb2/Labb2/obj/x86/Debug/Labb2.pdb
